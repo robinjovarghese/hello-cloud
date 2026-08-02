@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "hello-cloud",
   "version": "1.0.0",
@@ -10,17 +9,4 @@
   "dependencies": {
     "express": "^4.21.2"
   }
-=======
-{
-  "name": "hello-cloud",
-  "version": "1.0.0",
-  "description": "My first Azure App Service app",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.21.2"
-  }
->>>>>>> e9bffe2d900f8a70edd23b456be7c4710cc5de84
 }
